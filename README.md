@@ -1,7 +1,7 @@
 # 🟣 BartaOne: The Future of Decentralized Media on Aptos
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/bartaone-logo.png" alt="BartaOne Logo" width="200"/>
+  <img src="https://user-images.githubusercontent.com/placeholder/logo.png" alt="BartaOne Logo" width="200"/>
 </p>
 
 ---

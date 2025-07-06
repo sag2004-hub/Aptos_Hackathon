@@ -1,7 +1,7 @@
 # 🟣 BartaOne: The Future of Decentralized Media on Aptos
 
 <p align="center">
-  <img src="./BartaOne/src/asset/logo.png" alt="BartaOne Logo" width="200"/>
+  <img src="../../Desktop/Aptos_Hackathon/BartaOne/src/assets/logo.png" alt="BartaOne Logo" width="200"/>
 </p>
 
 ---
